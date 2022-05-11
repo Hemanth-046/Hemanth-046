@@ -1,13 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
 
 pip install pandas
 
-
-# In[5]:
 
 
 import pandas as a
@@ -47,10 +40,3 @@ c = {
 }
 b = a.DataFrame(c)
 print(b)
-
-
-# In[ ]:
-
-
-
-
